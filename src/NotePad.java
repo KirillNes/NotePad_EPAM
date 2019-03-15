@@ -161,7 +161,6 @@ class NotePad {
 //                for (int k = 0; k <= removeIndex.length - 1; k++) {
 //                    System.out.print(removeIndex[k] + ", ");
 //                }
-                System.out.println("");
 
                 // Создаётся 3 "указателя" на элементы массивов: Старый массив, новый массив, массив с индексами.
                 // По умолчанию все указывают на начало массивов.
